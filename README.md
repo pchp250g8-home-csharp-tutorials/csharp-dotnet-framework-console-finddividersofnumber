@@ -1,4 +1,4 @@
-FindDividersOfNumber. C# Tutorials. Simple Input/Output. Algorithms. DotNet FrameWork Platform. Console Application. 
+FindDividersOfNumber. C# Tutorials. Simple Input/Output. Algorithms. DotNet FrameWork Platform. Console Application.
 A console application in the C# programming language. 
 The program does the following:
   1. Asks the user to enter a positive integer.
