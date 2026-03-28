@@ -12,7 +12,7 @@ namespace FindDividersOfNumber
         {
             Console.WriteLine("Input an integer positive number");
             UInt64.TryParse(Console.ReadLine(), out ulong ulNumber);
-            Console.WriteLine("The number {0} has the folowing dividers:");
+            Console.WriteLine("The number {0} has the folowing divisors:");
             for (ulong i = 1; i <= ulNumber; i++)
             {
                 if (ulNumber % i == 0)
